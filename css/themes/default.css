@@ -93,3 +93,8 @@
 .layuimini-tab .layui-tab-title .layui-this .layuimini-tab-active {
     background-color: #1e9fff;
 }
+
+/* 去除全局底部空白 */
+.layui-layout-admin .layui-body {
+    padding-bottom: 0;!important;
+}
